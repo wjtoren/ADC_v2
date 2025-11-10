@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Simple DAC to test the workflow
 
 ## How to test
 
-Explain how to use your project
+8 ditigal pins in need to give a analogue value between 0 and 1.8V
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No hardware required
